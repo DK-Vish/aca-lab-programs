@@ -34,3 +34,4 @@ print(stack.empty())  # Output: False
 print(stack.pop())    # Output: 20
 print(stack.pop())    # Output: 10
 print(stack.empty())
+
